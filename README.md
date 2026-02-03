@@ -9,3 +9,7 @@ About Moving AVG case:
         trade is provided to the user.
 This tester takes the strategy when the user buys at when MA(smaller) crosses MA(bigger) and sell when MA(bigger)
 crosses MA(50).
+
+
+---------
+finance.csv consists of the OHLC data with date and volume of NVDIA stock(which was taken for reference data)
