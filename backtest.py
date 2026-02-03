@@ -6,7 +6,7 @@ import pandas as pd
 conn = pymysql.connect(
     host='localhost',
     user='root',
-    password='Bearcap2006',
+    password='',
     database='backtest'
 )
 
